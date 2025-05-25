@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928836608457",
+    "project_id": "clevertap-48550",
+    "storage_bucket": "clevertap-48550.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928836608457:android:4e4e7747a4ce4027044818",
+        "android_client_info": {
+          "package_name": "com.example.clevertapandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl2cES_K0EqtfFJPO9NixIolr3WfAH3qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
